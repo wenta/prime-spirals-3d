@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/prime-spirals-3d/',
+  base: 'https://wenta.github.io/prime-spirals-3d/',
 })
